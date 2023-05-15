@@ -16,7 +16,7 @@ public class Application {
 
 		String url = "jdbc:postgresql://localhost:5432/epicode_db?PostgreSQL?useSSL=false";
 		String username = "postgres";
-		String password = "Luigi123";
+		String password = "1234";
 		try {
 			System.out.println("Connecting...");
 			conn = DriverManager.getConnection(url, username, password);
