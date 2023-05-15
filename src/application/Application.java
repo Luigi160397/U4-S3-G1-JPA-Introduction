@@ -34,7 +34,7 @@ public class Application {
 
 		getBest();
 
-		getVoteRange(4, 10);
+		getVoteRange(4, 7);
 	}
 
 	public static void insertStudent(Student s) {
